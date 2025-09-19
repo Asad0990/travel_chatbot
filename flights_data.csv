@@ -1,0 +1,25 @@
+flight_number,airline,departure,destination,date,price,seats_available
+PK101,PIA,Pakistan,UK,2025-09-20,650,25
+BA198,British Airways,UK,Pakistan,2025-09-21,700,20
+PK102,PIA,Pakistan,UK,2025-09-25,670,22
+VS301,Virgin Atlantic,UK,Pakistan,2025-09-28,720,18
+
+AF719,Air France,France,Pakistan,2025-09-22,620,18
+PK303,PIA,Pakistan,France,2025-09-23,600,15
+AF720,Air France,France,Pakistan,2025-09-29,640,20
+PK304,PIA,Pakistan,France,2025-10-02,610,14
+
+JL402,Japan Airlines,Japan,Pakistan,2025-09-24,800,12
+PK895,PIA,Pakistan,Japan,2025-09-25,750,10
+NH203,ANA,Japan,Pakistan,2025-09-30,820,16
+PK896,PIA,Pakistan,Japan,2025-10-03,760,14
+
+CA946,Air China,China,Pakistan,2025-09-26,500,22
+PK854,PIA,Pakistan,China,2025-09-27,520,18
+MU888,China Eastern,China,Pakistan,2025-09-29,540,20
+PK855,PIA,Pakistan,China,2025-10-04,530,15
+
+EK601,Emirates,UAE,Pakistan,2025-09-28,300,25
+PK212,PIA,Pakistan,UAE,2025-09-29,280,28
+EY242,Etihad,UAE,Pakistan,2025-10-01,320,18
+PK213,PIA,Pakistan,UAE,2025-10-05,295,20

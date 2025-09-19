@@ -1,0 +1,155 @@
+{
+  "data": [
+    {
+      "title": "France",
+      "paragraphs": [
+        {
+          "context": "Paris is the capital of France. The currency is Euro (EUR). Pakistani citizens need a visa to visit France. Best time to visit is April to June. France is famous for the Eiffel Tower, French cuisine, and art museums. Public transport is well developed, especially trains and metros.",
+          "qas": [
+            {"id": "fr_q1", "question": "What is the capital of France?", "answers": [{"text": "Paris", "answer_start": 0}]},
+            {"id": "fr_q2", "question": "Which currency is used in France?", "answers": [{"text": "Euro (EUR)", "answer_start": 31}]},
+            {"id": "fr_q3", "question": "Do Pakistani citizens need a visa for France?", "answers": [{"text": "visa", "answer_start": 61}]},
+            {"id": "fr_q4", "question": "When is the best time to visit France?", "answers": [{"text": "April to June", "answer_start": 109}]},
+            {"id": "fr_q5", "question": "What is France famous for?", "answers": [{"text": "Eiffel Tower, French cuisine, and art museums", "answer_start": 143}]},
+            {"id": "fr_q6", "question": "How is public transport in France?", "answers": [{"text": "well developed, especially trains and metros", "answer_start": 210}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "United Kingdom",
+      "paragraphs": [
+        {
+          "context": "London is the capital of the United Kingdom. The currency is British Pound (GBP). A visa is required for Pakistani travelers. The best travel months are May to September. The UK is known for Big Ben, Buckingham Palace, and diverse culture. Public buses and trains are convenient for tourists.",
+          "qas": [
+            {"id": "uk_q1", "question": "What is the capital of the United Kingdom?", "answers": [{"text": "London", "answer_start": 0}]},
+            {"id": "uk_q2", "question": "Which currency is used in the UK?", "answers": [{"text": "British Pound (GBP)", "answer_start": 45}]},
+            {"id": "uk_q3", "question": "Do Pakistani citizens need a visa for the UK?", "answers": [{"text": "visa", "answer_start": 83}]},
+            {"id": "uk_q4", "question": "When is the best time to visit the UK?", "answers": [{"text": "May to September", "answer_start": 127}]},
+            {"id": "uk_q5", "question": "What is the UK famous for?", "answers": [{"text": "Big Ben, Buckingham Palace, and diverse culture", "answer_start": 172}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Japan",
+      "paragraphs": [
+        {
+          "context": "Tokyo is the capital of Japan. The currency is Japanese Yen (JPY). Pakistani citizens need a visa before traveling. The best months to visit are March to May. Japan is famous for cherry blossoms, technology, and sushi. Bullet trains and metros are fast and reliable for tourists.",
+          "qas": [
+            {"id": "jp_q1", "question": "What is the capital of Japan?", "answers": [{"text": "Tokyo", "answer_start": 0}]},
+            {"id": "jp_q2", "question": "Which currency is used in Japan?", "answers": [{"text": "Japanese Yen (JPY)", "answer_start": 36}]},
+            {"id": "jp_q3", "question": "Do Pakistani citizens need a visa for Japan?", "answers": [{"text": "visa", "answer_start": 75}]},
+            {"id": "jp_q4", "question": "When is the best time to visit Japan?", "answers": [{"text": "March to May", "answer_start": 120}]},
+            {"id": "jp_q5", "question": "What is Japan famous for?", "answers": [{"text": "cherry blossoms, technology, and sushi", "answer_start": 153}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "China",
+      "paragraphs": [
+        {
+          "context": "Beijing is the capital of China. The currency is Chinese Yuan (CNY). Pakistani citizens require a visa. Spring and autumn are the best times to visit. China is known for the Great Wall, Chinese food, and its rich history. Public transport includes subways, buses, and high-speed trains.",
+          "qas": [
+            {"id": "cn_q1", "question": "What is the capital of China?", "answers": [{"text": "Beijing", "answer_start": 0}]},
+            {"id": "cn_q2", "question": "Which currency is used in China?", "answers": [{"text": "Chinese Yuan (CNY)", "answer_start": 38}]},
+            {"id": "cn_q3", "question": "Do Pakistani citizens need a visa for China?", "answers": [{"text": "visa", "answer_start": 75}]},
+            {"id": "cn_q4", "question": "When is the best time to visit China?", "answers": [{"text": "Spring and autumn", "answer_start": 81}]},
+            {"id": "cn_q5", "question": "What is China famous for?", "answers": [{"text": "Great Wall, Chinese food, and its rich history", "answer_start": 123}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "United Arab Emirates",
+      "paragraphs": [
+        {
+          "context": "Dubai is the most famous city in the United Arab Emirates. The currency is UAE Dirham (AED). Pakistani citizens need a visa, but sometimes visa on arrival is available. Best time to travel is November to March. The UAE is famous for skyscrapers, shopping malls, and luxury tourism. Taxis and metro in Dubai are convenient for travel.",
+          "qas": [
+            {"id": "uae_q1", "question": "Which city is most famous in UAE?", "answers": [{"text": "Dubai", "answer_start": 0}]},
+            {"id": "uae_q2", "question": "Which currency is used in the UAE?", "answers": [{"text": "UAE Dirham (AED)", "answer_start": 58}]},
+            {"id": "uae_q3", "question": "Do Pakistani citizens need a visa for the UAE?", "answers": [{"text": "visa", "answer_start": 90}]},
+            {"id": "uae_q4", "question": "When is the best time to visit Dubai?", "answers": [{"text": "November to March", "answer_start": 152}]},
+            {"id": "uae_q5", "question": "What is UAE famous for?", "answers": [{"text": "skyscrapers, shopping malls, and luxury tourism", "answer_start": 186}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Turkey",
+      "paragraphs": [
+        {
+          "context": "Ankara is the capital of Turkey, but Istanbul is the most popular tourist city. The currency is Turkish Lira (TRY). Pakistani citizens require a visa or e-visa. Best time to visit is April to October. Turkey is famous for Hagia Sophia, Bosphorus, and Cappadocia hot air balloons. Public buses and trams are common for tourists.",
+          "qas": [
+            {"id": "tr_q1", "question": "What is the capital of Turkey?", "answers": [{"text": "Ankara", "answer_start": 0}]},
+            {"id": "tr_q2", "question": "Which currency is used in Turkey?", "answers": [{"text": "Turkish Lira (TRY)", "answer_start": 67}]},
+            {"id": "tr_q3", "question": "Do Pakistani citizens need a visa for Turkey?", "answers": [{"text": "visa", "answer_start": 108}]},
+            {"id": "tr_q4", "question": "When is the best time to visit Turkey?", "answers": [{"text": "April to October", "answer_start": 141}]},
+            {"id": "tr_q5", "question": "What is Turkey famous for?", "answers": [{"text": "Hagia Sophia, Bosphorus, and Cappadocia hot air balloons", "answer_start": 174}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Saudi Arabia",
+      "paragraphs": [
+        {
+          "context": "Riyadh is the capital of Saudi Arabia. The currency is Saudi Riyal (SAR). Pakistani citizens need a visa, but Umrah and Hajj visas are separate categories. Best time to visit is November to March due to cooler weather. Saudi Arabia is famous for Mecca, Medina, deserts, and modern Riyadh. Transport includes buses, taxis, and metro projects.",
+          "qas": [
+            {"id": "sa_q1", "question": "What is the capital of Saudi Arabia?", "answers": [{"text": "Riyadh", "answer_start": 0}]},
+            {"id": "sa_q2", "question": "Which currency is used in Saudi Arabia?", "answers": [{"text": "Saudi Riyal (SAR)", "answer_start": 47}]},
+            {"id": "sa_q3", "question": "Do Pakistani citizens need a visa for Saudi Arabia?", "answers": [{"text": "visa", "answer_start": 84}]},
+            {"id": "sa_q4", "question": "When is the best time to visit Saudi Arabia?", "answers": [{"text": "November to March", "answer_start": 138}]},
+            {"id": "sa_q5", "question": "What is Saudi Arabia famous for?", "answers": [{"text": "Mecca, Medina, deserts, and modern Riyadh", "answer_start": 178}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Australia",
+      "paragraphs": [
+        {
+          "context": "Canberra is the capital of Australia, though Sydney and Melbourne are more popular for tourists. The currency is Australian Dollar (AUD). Pakistani citizens require a visa. Best time to visit is December to February for beaches and June to August for winter sports. Australia is famous for the Sydney Opera House, Great Barrier Reef, and kangaroos. Transport is easy with trains, buses, and ferries.",
+          "qas": [
+            {"id": "au_q1", "question": "What is the capital of Australia?", "answers": [{"text": "Canberra", "answer_start": 0}]},
+            {"id": "au_q2", "question": "Which currency is used in Australia?", "answers": [{"text": "Australian Dollar (AUD)", "answer_start": 90}]},
+            {"id": "au_q3", "question": "Do Pakistani citizens need a visa for Australia?", "answers": [{"text": "visa", "answer_start": 131}]},
+            {"id": "au_q4", "question": "When is the best time to visit Australia?", "answers": [{"text": "December to February", "answer_start": 163}]},
+            {"id": "au_q5", "question": "What is Australia famous for?", "answers": [{"text": "Sydney Opera House, Great Barrier Reef, and kangaroos", "answer_start": 235}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Canada",
+      "paragraphs": [
+        {
+          "context": "Ottawa is the capital of Canada, while Toronto and Vancouver are top tourist spots. The currency is Canadian Dollar (CAD). Pakistani citizens need a visa. Best time to visit is June to September. Canada is famous for Niagara Falls, maple syrup, and natural landscapes. Public transport includes buses, metros, and trains in major cities.",
+          "qas": [
+            {"id": "ca_q1", "question": "What is the capital of Canada?", "answers": [{"text": "Ottawa", "answer_start": 0}]},
+            {"id": "ca_q2", "question": "Which currency is used in Canada?", "answers": [{"text": "Canadian Dollar (CAD)", "answer_start": 77}]},
+            {"id": "ca_q3", "question": "Do Pakistani citizens need a visa for Canada?", "answers": [{"text": "visa", "answer_start": 113}]},
+            {"id": "ca_q4", "question": "When is the best time to visit Canada?", "answers": [{"text": "June to September", "answer_start": 139}]},
+            {"id": "ca_q5", "question": "What is Canada famous for?", "answers": [{"text": "Niagara Falls, maple syrup, and natural landscapes", "answer_start": 171}]}
+          ]
+        }
+      ]
+    },
+    {
+      "title": "Italy",
+      "paragraphs": [
+        {
+          "context": "Rome is the capital of Italy. The currency is Euro (EUR). Pakistani citizens require a visa. Best time to travel is April to June and September to October. Italy is famous for the Colosseum, Venice canals, pizza, and fashion. Transport options include trains, metros, and buses.",
+          "qas": [
+            {"id": "it_q1", "question": "What is the capital of Italy?", "answers": [{"text": "Rome", "answer_start": 0}]},
+            {"id": "it_q2", "question": "Which currency is used in Italy?", "answers": [{"text": "Euro (EUR)", "answer_start": 32}]},
+            {"id": "it_q3", "question": "Do Pakistani citizens need a visa for Italy?", "answers": [{"text": "visa", "answer_start": 61}]},
+            {"id": "it_q4", "question": "When is the best time to visit Italy?", "answers": [{"text": "April to June and September to October", "answer_start": 95}]},
+            {"id": "it_q5", "question": "What is Italy famous for?", "answers": [{"text": "Colosseum, Venice canals, pizza, and fashion", "answer_start": 150}]}
+          ]
+        }
+      ]
+    }
+  ]
+}
